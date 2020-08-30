@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cshu398-blog/static/js/main.ed3582b3.chunk.js",
-    "main.js.map": "/cshu398-blog/static/js/main.ed3582b3.chunk.js.map",
+    "main.js": "/cshu398-blog/static/js/main.3b39a451.chunk.js",
+    "main.js.map": "/cshu398-blog/static/js/main.3b39a451.chunk.js.map",
     "runtime-main.js": "/cshu398-blog/static/js/runtime-main.7c2ba24d.js",
     "runtime-main.js.map": "/cshu398-blog/static/js/runtime-main.7c2ba24d.js.map",
     "static/js/2.dd8070ab.chunk.js": "/cshu398-blog/static/js/2.dd8070ab.chunk.js",
     "static/js/2.dd8070ab.chunk.js.map": "/cshu398-blog/static/js/2.dd8070ab.chunk.js.map",
     "index.html": "/cshu398-blog/index.html",
-    "precache-manifest.7046fc8f7f71489e6cbe0b0ed74964d2.js": "/cshu398-blog/precache-manifest.7046fc8f7f71489e6cbe0b0ed74964d2.js",
+    "precache-manifest.01c9a7b9f69d3d0a6c3f5140d88dcd97.js": "/cshu398-blog/precache-manifest.01c9a7b9f69d3d0a6c3f5140d88dcd97.js",
     "service-worker.js": "/cshu398-blog/service-worker.js",
     "static/js/2.dd8070ab.chunk.js.LICENSE.txt": "/cshu398-blog/static/js/2.dd8070ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c2ba24d.js",
     "static/js/2.dd8070ab.chunk.js",
-    "static/js/main.ed3582b3.chunk.js"
+    "static/js/main.3b39a451.chunk.js"
   ]
 }
